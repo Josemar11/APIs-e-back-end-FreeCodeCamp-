@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Josemar",
+	"description": "Projeto e desaifio desenvolvido em conjunto com a FreeCodeCamp com intuito de iniciar meus conhecimento em Nodejs",
+	"keywords": ["freecodecamp" , "javascript" , "node" , "server" ],
+	"license": "ISC",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
